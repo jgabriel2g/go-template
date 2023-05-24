@@ -1,0 +1,1 @@
+This repository is a template with integration of hex architecture and gqlgen...neo4j as database example
